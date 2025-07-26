@@ -1,0 +1,10 @@
+{
+  "name": "miweb-mauro-garcia",
+  "version": "1.0.0",
+  "description": "Sitio web estático creado por Mauro García González",
+  "scripts": {
+    "build": "echo 'No build needed'"
+  },
+  "author": "Mauro García González",
+  "license": "MIT"
+}
